@@ -1,4 +1,4 @@
-import { DateTime } from 'luxon';
+import { DateTime } from 'https://moment.github.io/luxon/es6/luxon.min.js';
 
 function getDateDiff(dateFrom, dateTo) {
 
